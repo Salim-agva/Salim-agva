@@ -26,15 +26,15 @@
 <img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
 <img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/flutter-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/react-native-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+<img alt="github" src="https://img.shields.io/badge/flutter-000.svg?&style=for-the-badge&logo=flutter&logoColor=fff" />&nbsp;
+<img alt="github" src="https://img.shields.io/badge/react-native-000.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
 
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/youtube-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
+<img alt="github" src="https://img.shields.io/badge/youtube-000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />&nbsp;
 
 
 
