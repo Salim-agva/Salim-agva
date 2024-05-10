@@ -11,7 +11,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/YauhenKavalchuk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
-### Hi all, I'm Salim - aka [webDev][youtube] 👋 <img align="right" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
+### Hi all, I'm Salim  👋 <img align="right" src="https://komarev.com/ghpvc/?username=YauhenKavalchuk&label=Profile%20Views%20&color=ff0000&style=flat-square" alt="Yauhen" />
 
 ## I'm a Developer,
 
